@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           超稳GPT中转API_KEY
         </div>
         <div className={styles["sidebar-sub-title"]}>
-           就选白菜GPT<a href="https://baicaigpt.apifox.cn/help" target="_blank" >购买及使用API_KEY帮助</a>
+           就选白菜GPT-<a href="https://baicaigpt.apifox.cn/help" target="_blank" >购买及使用帮助文档</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
