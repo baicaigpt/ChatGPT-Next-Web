@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          超稳GPT中转API_KEY
+          中转APIKEY — 就选白菜GPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-           就选白菜GPT-<a href="https://baicaigpt.apifox.cn/help" target="_blank" >购买及使用帮助文档</a>
+           <a href="http://e.tb.cn/h.greWKeWgJwrEtWI?tk=y2HZ3iqrMYo" target="_blank" >超稳不限速！比官方价更低！0.7￥=1$ 点击购买</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
