@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           中转API—就选白菜GPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-           <a href="http://e.tb.cn/h.greWKeWgJwrEtWI?tk=y2HZ3iqrMYo" target="_blank" >超稳不限速！官方价7折！0.7￥=1$ 点击购买</a>
+           <a href="https://shop.baicaigpt.com" target="_blank" >免费试用！超稳不限速！点击购买</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
